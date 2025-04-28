@@ -1,73 +1,89 @@
-# Welcome to your Lovable project
+# Pallavi Patel - Portfolio Website
 
-## Project info
+A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS. This portfolio showcases my skills, projects, education, and contact information.
 
-**URL**: https://lovable.dev/projects/dd4aa93d-d30f-4fb4-9f44-ae1b45cdf7a2
+## 🚀 Features
 
-## How can I edit this code?
+- **Modern UI/UX**: Clean and professional design with smooth animations
+- **Responsive Design**: Fully responsive across all devices
+- **Dark Mode**: Built-in dark mode support
+- **Interactive Components**: 
+  - Project showcase with images
+  - Skills progress bars
+  - Contact form
+  - Downloadable CV
+  - Social media links
 
-There are several ways of editing your application.
+## 🛠️ Tech Stack
 
-**Use Lovable**
+- **Frontend Framework**: Next.js
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **UI Components**: Shadcn/ui
+- **Icons**: Lucide Icons
+- **Deployment**: GitHub Pages
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/dd4aa93d-d30f-4fb4-9f44-ae1b45cdf7a2) and start prompting.
+## 📋 Sections
 
-Changes made via Lovable will be committed automatically to this repo.
+1. **Hero Section**: Introduction and quick links
+2. **About Me**: Personal information and background
+3. **Projects**: Showcase of completed projects
+4. **Skills**: Technical and soft skills with progress indicators
+5. **Internships**: Professional experience
+6. **Education & Certificates**: Academic background and certifications
+7. **Contact**: Contact form and social media links
 
-**Use your preferred IDE**
+## 🚀 Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Prerequisites
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Node.js (v14 or later)
+- npm or yarn
 
-Follow these steps:
+### Installation
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PallaviPatel10/Portfolio.git
+   ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
-# Step 3: Install the necessary dependencies.
-npm i
+3. Run the development server:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-**Edit a file directly in GitHub**
+## 📸 Screenshots
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+[Add screenshots of your portfolio here]
 
-**Use GitHub Codespaces**
+## 🔗 Links
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Portfolio**: [https://pallavipatel10.github.io/Portfolio/](https://pallavipatel10.github.io/Portfolio/)
+- **LinkedIn**: [https://www.linkedin.com/in/pallavi-patel10/](https://www.linkedin.com/in/pallavi-patel10/)
+- **GitHub**: [https://github.com/PallaviPatel10](https://github.com/PallaviPatel10)
 
-## What technologies are used for this project?
+## 📝 License
 
-This project is built with:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🙏 Acknowledgments
 
-## How can I deploy this project?
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Shadcn/ui](https://ui.shadcn.com/)
+- [Lucide Icons](https://lucide.dev/)
 
-Simply open [Lovable](https://lovable.dev/projects/dd4aa93d-d30f-4fb4-9f44-ae1b45cdf7a2) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Made with ❤️ by [Pallavi Patel](https://github.com/PallaviPatel10)
